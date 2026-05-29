@@ -1,3 +1,19 @@
+# 🛡️ AI Phishing Detector
+
+A Machine Learning based phishing detection system that analyzes URLs, calculates threat scores, and helps identify potentially malicious websites.
+
+## Project Revival Story
+
+This project was originally created as a simple phishing detection script.
+
+During the GitHub Finish-Up-A-Thon Challenge, it was revived and enhanced into a more complete cybersecurity project by adding:
+
+- Advanced URL Analysis
+- Threat Scoring
+- Streamlit Dashboard
+- Better Documentation
+- Dependency Management
+  
 AI-Phishing-Detector
 
 Overview
