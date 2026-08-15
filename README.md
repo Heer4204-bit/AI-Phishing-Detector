@@ -2,6 +2,7 @@
 <img width="1531" height="811" alt="IMG-20260815-WA0073" src="https://github.com/user-attachments/assets/af96d2f1-99e3-498e-be20-3e2a4a5c0128" />
 <img width="1600" height="777" alt="IMG-20260815-WA0071" src="https://github.com/user-attachments/assets/aa236076-1ce3-4ea2-9029-1ea37b979a6c" />
 <img width="1600" height="765" alt="IMG-20260815-WA0072" src="https://github.com/user-attachments/assets/45adde55-5251-4500-912a-ec9279ff59b2" />
+
 # 🛡️ AI Phishing Detector
 
 A Machine Learning based phishing detection system that analyzes URLs, calculates threat scores, and helps identify potentially malicious websites.
