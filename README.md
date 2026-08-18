@@ -125,12 +125,6 @@ PHISHING
 Confidence:
 XX.X%
 
-## 📈 Confusion Matrix
-                    Predicted
-                  Legit   Phishing
-Actual Legit       TN        FP
-Actual Phishing    FN        TP
-
                          AI PHISHING SHIELD
                                 │
              ┌───────────┴───────────┐
