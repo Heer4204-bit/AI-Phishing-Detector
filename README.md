@@ -62,7 +62,7 @@ Enhanced phishing detection system with advanced URL analysis and threat scoring
           URL
           ↓
           
-   Feature Extraction
+     Feature Extraction
    
           ↓
           
@@ -70,15 +70,15 @@ Enhanced phishing detection system with advanced URL analysis and threat scoring
      
           ↓
           
-Random Forest Classifier
+     Random Forest Classifier
 
           ↓
           
-  Phishing / Legitimate
+     Phishing / Legitimate
   
           ↓
           
-   Probability / Risk
+     Probability / Risk
 
 Model: Random Forest Classifier
 
