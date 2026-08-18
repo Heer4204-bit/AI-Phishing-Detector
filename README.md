@@ -63,15 +63,19 @@ Enhanced phishing detection system with advanced URL analysis and threat scoring
           ↓
           
    Feature Extraction
+   
           ↓
           
      Feature Vector
+     
           ↓
           
 Random Forest Classifier
+
           ↓
           
   Phishing / Legitimate
+  
           ↓
           
    Probability / Risk
