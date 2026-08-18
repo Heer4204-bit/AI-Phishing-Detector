@@ -153,4 +153,4 @@ XX.X%
 ## 🌐 Live Demo
 https://heer4204-bit.github.io/AI-Phishing-Detector/
 
-[AI Phishing Shield]
+<img width="733" height="418" alt="images" src="https://github.com/user-attachments/assets/dc161a74-f762-4e35-ba77-902b1aff3c74" />
