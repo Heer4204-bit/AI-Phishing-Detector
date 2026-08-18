@@ -59,17 +59,17 @@ After
 Enhanced phishing detection system with advanced URL analysis and threat scoring.
 
 ## 📊 Model Performance
-URL
- ↓
-Feature Extraction
- ↓
-Feature Vector
- ↓
+          URL
+          ↓
+   Feature Extraction
+          ↓
+     Feature Vector
+          ↓
 Random Forest Classifier
- ↓
-Phishing / Legitimate
- ↓
-Probability / Risk
+          ↓
+  Phishing / Legitimate
+          ↓
+   Probability / Risk
 
 Model: Random Forest Classifier
 
@@ -144,7 +144,7 @@ Actual Phishing    FN        TP
                                ↓
                          Risk / Prediction
 
-[image]
+<img width="1402" height="1122" alt="IMG-20260818-WA0002" src="https://github.com/user-attachments/assets/70be1c1b-bd5c-4f77-a7ac-2c4a667c695e" />
 
 ## 🌐 Live Demo
 https://heer4204-bit.github.io/AI-Phishing-Detector/
